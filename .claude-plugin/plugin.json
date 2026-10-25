@@ -1,0 +1,20 @@
+{
+  "name": "songcraft",
+  "version": "1.0.0",
+  "description": "Turn a poem, a story told in plain words, or existing lyrics into a finished song lyric, an arrangement brief, and on request guitar chords and a melody sketch.",
+  "author": {
+    "name": "AIX Foundry – Cem Sarı",
+    "email": "hello@aixfoundry.co.uk"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/cemsari/songcraft",
+  "keywords": [
+    "songwriting",
+    "lyrics",
+    "poetry",
+    "music",
+    "chords",
+    "melody",
+    "turkish"
+  ]
+}

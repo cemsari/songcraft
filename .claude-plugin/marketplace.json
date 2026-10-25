@@ -1,0 +1,15 @@
+{
+  "name": "aixfoundry",
+  "description": "Claude plugins by AIX Foundry.",
+  "owner": {
+    "name": "AIX Foundry – Cem Sarı",
+    "email": "hello@aixfoundry.co.uk"
+  },
+  "plugins": [
+    {
+      "name": "songcraft",
+      "source": "./",
+      "description": "Write a song with Claude: lyrics from a poem or a story, an arrangement brief, and chords and a melody sketch on request."
+    }
+  ]
+}
