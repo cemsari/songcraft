@@ -36,6 +36,18 @@ Then type `/songcraft:songcraft` followed by your idea, for example:
 - It does not invent facts about real people: anything you did not tell it
   is written as a question or a wish, and new images are labelled as new.
 
+## Privacy
+
+songcraft is a set of written instructions for Claude. It contains no code,
+collects nothing, stores nothing and sends nothing to any other service.
+What you write stays in your own Claude conversation, under Anthropic's
+terms for your account. Questions: hello@aixfoundry.co.uk
+
+## Support
+
+Open an issue at https://github.com/cemsari/songcraft/issues or write to
+hello@aixfoundry.co.uk.
+
 ## License
 
 MIT. See LICENSE.

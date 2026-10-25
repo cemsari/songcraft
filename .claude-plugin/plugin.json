@@ -16,5 +16,8 @@
     "chords",
     "melody",
     "turkish"
-  ]
+  ],
+  "homepage": "https://github.com/cemsari/songcraft",
+  "supportUrl": "https://github.com/cemsari/songcraft/issues",
+  "privacyPolicyUrl": "https://github.com/cemsari/songcraft#privacy"
 }
